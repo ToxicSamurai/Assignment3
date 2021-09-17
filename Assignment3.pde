@@ -1,5 +1,5 @@
 //ToxicSamurai
-//You may use/edit
+//Licensed under Creative Commons CC-BY-NC-SA
 
 PVector fillColor, fillSpeed;
 
